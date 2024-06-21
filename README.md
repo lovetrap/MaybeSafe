@@ -1,18 +1,18 @@
 # 技术栈
 Vue3 + Navie UI + Wails + sqlite
 # 主界面
-![[./image/主界面.png]]
+![](./image/主界面.png)
 # 资产管理
-![[./image/资产管理.png]]
+![](./image/资产管理.png)
 ## 任务详情
 ## 项目编辑
-![[./image/项目.png]]
+![](./image/项目.png)
 ## DNS
-![[./image/DNS.png]]
+![](./image/DNS.png)
 ## 域名
-![[./image/域名.png]]
+![](./image/域名.png)
 ## 端口
-![[./image/端口.png]]
+![](./image/端口.png)
 ## 爬虫
 ## 任务编排
 ## 资产变更
@@ -30,7 +30,7 @@ Vue3 + Navie UI + Wails + sqlite
 2. 使用js编写自定义数据筛选和监控
 ## 指纹
 对banner深度解析，使用js编写指纹脚本
-![[./image/端口解析.png]]
+![](./image/端口解析.png)
 例如判断mysql服务及版本
 ```javascript
 var finger = "" //指纹名称
