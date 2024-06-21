@@ -4,7 +4,7 @@ Vue3 + Navie UI + Wails + sqlite
 ![](./image/主界面.png)
 # 资产管理
 ![](./image/资产管理.png)
-## 任务详情
+# 任务详情
 ## 项目编辑
 ![](./image/项目.png)
 ## DNS
