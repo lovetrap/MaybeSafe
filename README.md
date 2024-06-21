@@ -29,9 +29,9 @@ Vue3 + Navie UI + Wails + sqlite
 1. 使用默认的内置方法
 2. 使用js编写自定义数据筛选和监控
 ## 指纹
-对banner深度解析，使用js编写指纹脚本
+### 
 ![](./image/端口解析.png)
-例如判断mysql服务及版本
+对banner深度解析，使用js编写指纹脚本，例如判断mysql服务及版本
 ```javascript
 var finger = "" //指纹名称
 
